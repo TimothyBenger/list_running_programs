@@ -32,7 +32,7 @@ Notes / Improvements:
 
 Tests to consider:
 
-Test that all of mock ps output data turns up in output file as expected (i.e. output file is complete)
-Test output file contains no duplicate information
-Test output file contains no information that is not in mock ps output data (i.e. output file is accurate)
-Test what would happen if process interrupted on either machine (currently would fail)
+* Test that all of mock ps output data turns up in output file as expected (i.e. output file is complete)
+* Test output file contains no duplicate information
+* Test output file contains no information that is not in mock ps output data (i.e. output file is accurate)
+* Test what would happen if process interrupted on either machine (currently would fail)
